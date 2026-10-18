@@ -1,0 +1,5 @@
+﻿id,Id,ArtifactName,Icon,Skillid,Weight,Rarity,Price,ArtifactDesc,EffectEnum,Scope,Ability,EffectDesc,SkillParam,DynamicFloat
+30114,30114,5480,1,720111,70,1,150,,0,2,rogueArtifact10,5329,"[""atk1"",""atk2"",""""]","[1.0,1.0]"
+30115,30115,5481,2,720111,70,1,150,,0,2,rogueArtifact10,5330,"[""atk1"",""atk2"",""""]","[1.0,1.0]"
+30116,30116,5482,3,720111,70,1,150,,0,2,rogueArtifact10,28065,"[""atk1"",""atk2"",""""]","[1.0,1.0]"
+30117,30117,5483,4,720111,70,1,150,,0,2,rogueArtifact10,28066,"[""atk1"",""atk2"",""""]","[1.0,1.0]"

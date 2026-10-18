@@ -1,0 +1,13 @@
+﻿id,Id,ZoomType,ZoomLevel,CustomUnlockEntry,PlayerProperty,EnemyProperty
+1,1,1,1,[],[],[]
+2,2,1,2,[],[],[]
+3,3,1,3,[],[],"[{""Property"":202,""Value"":0.1}]"
+4,4,1,4,[],[],"[{""Property"":102,""Value"":0.1},{""Property"":202,""Value"":0.1}]"
+5,5,1,5,[],[],"[{""Property"":102,""Value"":0.1},{""Property"":202,""Value"":0.2},{""Property"":1001,""Value"":50.0}]"
+6,6,1,6,[],"[{""Property"":4000,""Value"":-0.2}]","[{""Property"":102,""Value"":0.15},{""Property"":202,""Value"":0.2},{""Property"":802,""Value"":0.15},{""Property"":1001,""Value"":100.0}]"
+7,7,2,1,[],[],[]
+8,8,2,2,[],[],[]
+9,9,2,3,[],[],"[{""Property"":202,""Value"":0.1}]"
+10,10,2,4,[],[],"[{""Property"":102,""Value"":0.1},{""Property"":202,""Value"":0.1}]"
+11,11,2,5,[],[],"[{""Property"":102,""Value"":0.1},{""Property"":202,""Value"":0.2},{""Property"":802,""Value"":0.1},{""Property"":1001,""Value"":50.0}]"
+12,12,2,6,[],"[{""Property"":4000,""Value"":-0.2}]","[{""Property"":202,""Value"":0.1}]"

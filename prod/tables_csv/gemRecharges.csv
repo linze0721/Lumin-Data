@@ -1,0 +1,7 @@
+﻿id,Id,Productid,Productname,Type,Price,Tier,LimitCount,Item,Quantity,FirstPay,NormalPay,Icon,Tag,Dec,Sort,Doubleid
+10101,10101,com.lvmenggames.yjys.001,涌晶原髓x60,1,600,tier17,0,[],60,60,0,yongjing01,0,12158,0,1001
+10102,10102,com.lvmenggames.yjys.002,涌晶原髓x300,1,3000,tier72,0,[],300,300,30,yongjing02,0,12159,0,0
+10103,10103,com.lvmenggames.yjys.003,涌晶原髓x980,1,9800,tier214 ,0,[],980,980,110,yongjing03,0,12160,0,0
+10104,10104,com.lvmenggames.yjys.004,涌晶原髓x1980,1,19800,tier317,0,[],1980,1980,260,yongjing04,0,12161,0,0
+10105,10105,com.lvmenggames.yjys.005,涌晶原髓x3280,1,32800,tier370,0,[],3280,3280,600,yongjing05,0,12162,0,0
+10106,10106,com.lvmenggames.yjys.006,涌晶原髓x6480,1,64800,tier471,0,[],6480,6480,1600,yongjing06,0,12163,0,0

@@ -1,0 +1,6 @@
+﻿id,Id,ActivityId,ActivityNpcState,ActivityNpcString,ActivityNpcFace,LoopTime
+100501,100501,1005,talk01,[1807],xiaomimi,4000
+100502,100502,1005,baoxiong01_start,[1808],weixiao,2500
+100503,100503,1005,chayao01_start,[1809],bukuai,5000
+100504,100504,1005,sikao01_start,[1810],yansu,4000
+100505,100505,1005,fuxiong02_start,[1811],yansu,5000

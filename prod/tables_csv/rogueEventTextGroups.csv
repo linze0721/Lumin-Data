@@ -1,0 +1,3 @@
+﻿id,Id,GroupId,TextCode,NextCode,TextId,ChooseTextId,ChooseEffectCodeList,EffectCodeParmList
+1,1,101,[1],[2.0],0,[],[],[]
+2,2,101,[2],[3.0],0,[],[],[]

@@ -1,0 +1,4 @@
+﻿id,Id,Skillid,Skillweight,IconAddress,SkillLevel,ActionScope
+1,1,603021,100,107,1,0
+2,2,604011,150,108,1,0
+3,3,604021,150,106,1,0

@@ -1,0 +1,14 @@
+{ 
+    "1":{ "Id":1,"ZoomType":1,"ZoomLevel":1,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[]},
+    "2":{ "Id":2,"ZoomType":1,"ZoomLevel":2,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[]},
+    "3":{ "Id":3,"ZoomType":1,"ZoomLevel":3,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":202,"Value":1e-01}]},
+    "4":{ "Id":4,"ZoomType":1,"ZoomLevel":4,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":102,"Value":1e-01},{"Property":202,"Value":1e-01}]},
+    "5":{ "Id":5,"ZoomType":1,"ZoomLevel":5,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":102,"Value":1e-01},{"Property":202,"Value":2e-01},{"Property":1001,"Value":5e+01}]},
+    "6":{ "Id":6,"ZoomType":1,"ZoomLevel":6,"CustomUnlockEntry":[],"PlayerProperty":[{"Property":4000,"Value":-2e-01}],"EnemyProperty":[{"Property":102,"Value":1.5e-01},{"Property":202,"Value":2e-01},{"Property":802,"Value":1.5e-01},{"Property":1001,"Value":1e+02}]},
+    "7":{ "Id":7,"ZoomType":2,"ZoomLevel":1,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[]},
+    "8":{ "Id":8,"ZoomType":2,"ZoomLevel":2,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[]},
+    "9":{ "Id":9,"ZoomType":2,"ZoomLevel":3,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":202,"Value":1e-01}]},
+    "10":{ "Id":10,"ZoomType":2,"ZoomLevel":4,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":102,"Value":1e-01},{"Property":202,"Value":1e-01}]},
+    "11":{ "Id":11,"ZoomType":2,"ZoomLevel":5,"CustomUnlockEntry":[],"PlayerProperty":[],"EnemyProperty":[{"Property":102,"Value":1e-01},{"Property":202,"Value":2e-01},{"Property":802,"Value":1e-01},{"Property":1001,"Value":5e+01}]},
+    "12":{ "Id":12,"ZoomType":2,"ZoomLevel":6,"CustomUnlockEntry":[],"PlayerProperty":[{"Property":4000,"Value":-2e-01}],"EnemyProperty":[{"Property":202,"Value":1e-01}]}
+}

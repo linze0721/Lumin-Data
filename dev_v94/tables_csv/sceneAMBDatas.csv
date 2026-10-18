@@ -1,0 +1,13 @@
+﻿id,Id,SceneAMB,AMBParam
+1,1,event:/Scene/Factory/AMB_Factory_1,AMB_Factory_1
+2,2,event:/Scene/Factory/AMB_Factory_2,
+3,3,event:/Scene/Factory/AMB_Factory_3,
+4,4,event:/Scene/Factory/AMB_Factory_Workshop,
+5,5,event:/Scene/Factory/AMB_X_Zone,
+6,6,event:/Scene/Factory/AMBience_Factory_3,
+7,7,event:/Scene/Void/AMB,AMB_Void
+8,8,event:/Scene/Void/AMB_1,AMB_Void
+9,9,event:/Scene/Aurum/AMB/Street,
+10,10,event:/Scene/Aurum/AMB/Ocean,AMB_2D_3D
+11,11,event:/Scene/Aurum/AMB/Apron,
+12,12,event:/Scene/Aurum/AMB/Airport,

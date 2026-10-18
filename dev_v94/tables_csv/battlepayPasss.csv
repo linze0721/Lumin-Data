@@ -1,0 +1,4 @@
+﻿id,Id,Productid,Type,Bundlename,Bundledetail,LimitCount,Bundletag,Bundleoff,Preprice,Paytype,Price,Tier,Bundleitem,Bundlediffitem,Bplevelup,Value,Icon
+8001001,8001001,com.lvmenggames.bp.001,1,12164,20001,1,[2],1521,0,2,6800,tier151,"[{""Id"":97,""Count"":680}]",[],0,750,0
+8001002,8001002,com.lvmenggames.bp.002,2,13262,24104,1,[2],1143,0,2,6000,tier135,"[{""Id"":97,""Count"":320},{""Id"":502026,""Count"":1},{""Id"":502013,""Count"":1},{""Id"":1520004,""Count"":1},{""Id"":8004,""Count"":1000}]",[],10,660,0
+8001003,8001003,com.lvmenggames.bp.003,3,13263,28075,1,[2],1143,146,2,12800,tier247,"[{""Id"":97,""Count"":1000},{""Id"":502026,""Count"":1},{""Id"":502013,""Count"":1},{""Id"":1520004,""Count"":1},{""Id"":8004,""Count"":1000}]","[{""Id"":97,""Count"":320},{""Id"":502026,""Count"":1},{""Id"":502013,""Count"":1},{""Id"":1520004,""Count"":1},{""Id"":8004,""Count"":1000}]",10,1410,0

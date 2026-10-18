@@ -1,0 +1,7 @@
+﻿id,Id,MissionText,MissionDesText,TargetText,TargetFrame,TargetNums,TargetMidText,StayTime,TriggerTiming
+10101,10101,22673,22674,22432,"[""content/highLightRoot2""]","[0,170]",22723,180,1
+10102,10102,22675,22676,22724,"[""BattleState/Right/OnSwitch2_new""]","[2,200]",0,0,1
+10103,10103,22678,22679,22680,"[""content/highLightRoot""]","[0,170]",22694,180,1
+10104,10104,24482,22681,22725,"[""BattleState/Right/OnSwitch1_new""]","[2,200]",0,0,1
+10105,10105,24483,22682,22435,"[""content/highLightRoot""]","[0,170]",24484,180,1
+10106,10106,1942,22683,0,[],[],24485,0,0

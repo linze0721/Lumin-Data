@@ -1,0 +1,10 @@
+{ 
+    "611301":{ "Id":611301,"Type":1,"Weight":10,"SizeRange":[{"Min":1e+00,"Max":5e+00}],"Race":1,"RaceLocal":252,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "611302":{ "Id":611302,"Type":1,"Weight":5,"SizeRange":[{"Min":3e+00,"Max":7e+00}],"Race":2,"RaceLocal":252,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "611303":{ "Id":611303,"Type":1,"Weight":3,"SizeRange":[{"Min":5e+00,"Max":8e+00}],"Race":3,"RaceLocal":252,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "613402":{ "Id":613402,"Type":1,"Weight":1,"SizeRange":[{"Min":7e+00,"Max":1e+01}],"Race":4,"RaceLocal":252,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "621301":{ "Id":621301,"Type":2,"Weight":10,"SizeRange":[{"Min":1e+00,"Max":5e+00}],"Race":1,"RaceLocal":252,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "621302":{ "Id":621302,"Type":2,"Weight":5,"SizeRange":[{"Min":3e+00,"Max":7e+00}],"Race":2,"RaceLocal":253,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "621303":{ "Id":621303,"Type":2,"Weight":3,"SizeRange":[{"Min":5e+00,"Max":8e+00}],"Race":3,"RaceLocal":253,"Sink":[{"Min":3e+00,"Max":5e+00}]},
+    "621304":{ "Id":621304,"Type":2,"Weight":1,"SizeRange":[{"Min":7e+00,"Max":1e+01}],"Race":4,"RaceLocal":254,"Sink":[{"Min":3e+00,"Max":5e+00}]}
+}

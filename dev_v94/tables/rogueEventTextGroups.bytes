@@ -1,0 +1,4 @@
+{ 
+    "1":{ "Id":1,"GroupId":101,"TextCode":[1],"NextCode":[2E+00],"TextId":0,"ChooseTextId":[],"ChooseEffectCodeList":[],"EffectCodeParmList":[]},
+    "2":{ "Id":2,"GroupId":101,"TextCode":[2],"NextCode":[3E+00],"TextId":0,"ChooseTextId":[],"ChooseEffectCodeList":[],"EffectCodeParmList":[]}
+}

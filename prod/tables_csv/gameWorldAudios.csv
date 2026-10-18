@@ -1,0 +1,12 @@
+﻿id,Id,BgmSound,EnvSound,Reverb,FootStepMat,BankPath
+2001,2001,event:/Mus/Scene/Instance/CyberSpace_1,,,0,bank:/Mus_Instance_CyberSpace
+2002,2002,event:/Mus/Scene/Instance/CyberSpace_2,,,0,bank:/Mus_Instance_CyberSpace
+2301,2301,event:/Mus/Scene/Instance/Factory_Explore,,,0,bank:/Mus_Instance_Factory
+2201,2201,event:/Mus/Scene/Instance/Inverness_Explore,,,0,bank:/Mus_Instance_Inverness
+2401,2401,event:/Mus/Scene/Instance/Sewer_Explore,,,0,bank:/Mus_Instance_Sewer
+2101,2101,event:/Mus/Scene/Instance/Void_Explore,,,0,bank:/Mus_Instance_Void
+2501,2501,event:/Mus/Scene/Instance/TrainingMode,,,0,bank:/Mus_Instance_Training
+2601,2601,event:/Mus/Scene/Instance/Abyss_Explore,,,0,bank:/Mus_Instance_Abyss
+2701,2701,event:/Mus/Scene/Instance/Tepc_Explore,,,0,bank:/Mus_Instance_Tepc
+2801,2801,event:/Mus/Scene/Crater_Bottom/Blood_Thunder/Explore_Fight,,,0,bank:/Mus_Instance_Crater_Bottom
+3001,3001,event:/Mus/Scene/Backyard/Backyard_1,,,0,bank:/Mus_Backyard

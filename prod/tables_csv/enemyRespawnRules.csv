@@ -1,0 +1,5 @@
+﻿id,Id,Respawn,Countdonw,Animation,Period
+1,1,True,3600,True,"[0,86400]"
+2,2,True,180,True,"[0,86400]"
+3,3,False,0,False,"[0,86400]"
+4,4,False,0,True,"[0,86400]"

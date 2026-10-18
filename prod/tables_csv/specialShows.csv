@@ -1,0 +1,4 @@
+﻿id,Id,ActionName,Path,Describe,KeyTip,PadKeyTip
+15,15,SpecialProppickTrigger,UI/BagPanel,10504,10505,14341
+16,16,SpecialProppickTrigger,UI/BagPanel,33417,33413,33415
+20,20,SpecialProppickTrigger,UI/ItemTreasureView,10506,33414,33416

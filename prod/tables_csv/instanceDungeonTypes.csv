@@ -1,0 +1,4 @@
+﻿id,Id,InstanceDungeonTypeName,InstanceDungeonTipsTitile,InstanceDungeonTips,ShowRecommendLevel,PowerUpGuide
+1,1,33858,33859,30509,False,True
+2,2,33860,33861,30510,True,False
+3,3,0,0,0,False,False

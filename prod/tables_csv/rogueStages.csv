@@ -1,0 +1,6 @@
+﻿id,Id,Name,StageTicket,UnlockPrecondition,Banner,RelicLimit,StepGroup,SeasonGroup,TableStageEffect,StageEffectGroup,BuffGroup
+101,101,4031,100,0,0,1,1,1,1001,101,201
+102,102,4032,150,101,0,1,1,1,0,0,0
+103,103,4033,200,102,0,1,1,1,0,0,0
+104,104,4034,500,103,0,1,1,1,0,0,0
+105,105,4035,800,104,0,2,1,1,0,0,0

@@ -1,0 +1,4 @@
+﻿id,Id,Name,RewardPoint,ActivePointDailyReward,PreconditionParam,Navigation
+1,1,15565,10,"[{""Id"":250001,""Count"":10}]",[],[]
+2,2,9502,10,"[{""Id"":250001,""Count"":20}]",[],[]
+3,3,5273,5,"[{""Id"":250001,""Count"":5}]",[],[21100]

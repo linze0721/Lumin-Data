@@ -1,0 +1,16 @@
+﻿id,Id,StateName,AbilityName
+10101,10101,"[""ground_AAA"",""ground_B1.5"",""ground_dodgeSuccess_A"",""ground_B1"",""ground_~B"",""air_B_start""]",[]
+10201,10201,"[""ground_AAA"",""air_AA_end"",""ground_DodgeA"",""ground_dodgeSuccess_A"",""ground_~A"",""ground_B""]",[]
+10301,10301,"[""ground_AA"",""ground_AAA"",""ground_~Astart"",""ground_B_start"",""air_B_start"",""air_AAA"",""air_~A_start"",""air_~A_end"",""air_~A_end100"",""air_~A_end200"",""air_DodgeAttack""]",[]
+10401,10401,"[""ground_DodgeAttack"",""ground_~A"",""ground_B"",""air_B""]","[""Role_04_01_switchback""]"
+10501,10501,"[""ground_AAAA_Normal"",""ground_AAAA_1"",""ground_B"",""ground_B_EX""]",[]
+10601,10601,[],[]
+10801,10801,"[""ground_AAAA_Ex"",""ground_B_EX"",""air_B_start_EX""]","[""Role_08_01_coldDebuff"",""Role_08_01_EXcoldDebuff""]"
+10901,10901,[],[]
+11101,11101,[],[]
+11601,11601,"[""ground_~A_ex"",""ground_~A_quicklyStart"",""ground_~A_charge"",""ground_~A_U"",""ground_~A_U_end"",""ground_~A_U_over"",""U_start""]","[""role16_01_diaoxuejianshang"",""role16_01_Uaddhurt1"",""Role_16_01_PHZbuff"",""Role_16_01_Elite1buff"",""Role_16_01_resonance2buff""]"
+11701,11701,"[""ground_~A_start"",""ground_B"",""ground_U_start""]",[]
+12201,12201,[],[]
+12501,12501,[],[]
+12601,12601,"[""ground_AAAA_B"",""ground_AAAA_F"",""ground_B"",""ground_BB"",""ground_BBB"",""air_B"",""air_BB"",""air_BBB""]",[]
+12701,12701,"[""ground_AAAAA"",""ground_B"",""ground_B_ex"",""ground_B_ex_flash"",""ground_B_flash""]",[]

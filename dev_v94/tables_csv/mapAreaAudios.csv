@@ -1,0 +1,10 @@
+﻿id,Id,BgmSound,EnvSound,Reverb,FootStepMat,BankPath
+1002,1002,event:/Mus/Scene/AurumCity/Aurum,event:/Scene/Aurum/AMB/Street,,0,bank:/Mus_Aurum
+1006,1006,event:/Mus/Scene/Inverness/Explore_Fight,,,0,bank:/Mus_Crater
+1005,1005,event:/Mus/Scene/Void/Explore_Fight,event:/Scene/Void/AMB_1,,0,bank:/Mus_Void
+1007,1007,event:/Mus/Scene/Wuerken/Explore_Fight,,,0,bank:/Mus_Wuerken
+1008,1008,event:/Mus/Scene/Crater_Bottom/Explore_Fight,,,0,bank:/Mus_Crater_Bottom
+1009,1009,event:/Mus/Scene/MirrorCave/Explore_Fight,,,0,bank:/Mus_MirrorCave
+1010,1010,event:/Mus/Scene/Zel/Explore_Fight,,,0,bank:/Mus_Zel
+1004,1004,event:/Mus/Scene/TEPC/Explore_Fight,,,0,bank:/Mus_Tepc
+1001,1001,event:/Mus/Scene/Arsenal/Explore_Fight,,,0,bank:/Mus_Arsenal

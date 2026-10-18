@@ -1,0 +1,4 @@
+﻿id,Id,NodeID,Type,Name,TypeValueOne,TypeValueTwo,TypeValueThree
+1,1,10101,0,,100,0,False
+2,2,10102,0,,0,0,False
+3,3,10103,0,,100,0,False

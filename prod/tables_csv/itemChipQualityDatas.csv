@@ -1,0 +1,5 @@
+﻿id,Id,MaxEnchantLv,BaseMinNum,BaseMaxNum,MaxNum,AffordEXP
+2,2,5,1,1,4,800
+3,3,10,1,2,4,1000
+4,4,15,2,3,4,1600
+5,5,20,3,4,4,3000

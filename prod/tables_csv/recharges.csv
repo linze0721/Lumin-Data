@@ -1,0 +1,7 @@
+﻿id,Id,Productid,Productname,Type,Price,Tier,LimitCount,Item,Quantity,FirstPay,NormalPay,Icon,Tag,Dec,Sort
+10101,10101,com.lvmenggames.yjys.001,日常充值6元,1,600,tier17,0,[],60,60,0,yongjing01,0,0,0
+10102,10102,com.lvmenggames.yjys.002,日常充值30元,1,3000,tier72,0,[],300,300,30,yongjing02,0,0,0
+10103,10103,com.lvmenggames.yjys.003,日常充值98元,1,9800,tier151,0,[],980,980,110,yongjing03,0,0,0
+10104,10104,com.lvmenggames.yjys.004,日常充值198元,1,19800,tier247,0,[],1980,1980,260,yongjing04,0,0,0
+10105,10105,com.lvmenggames.yjys.005,日常充值328元,1,32800,tier370,0,[],3280,3280,600,yongjing05,0,0,0
+10106,10106,com.lvmenggames.yjys.006,日常充值648元,1,64800,tier471,0,[],6480,6480,1600,yongjing06,0,0,0

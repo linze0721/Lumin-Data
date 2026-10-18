@@ -1,0 +1,2 @@
+﻿id,Id,Monthlyitemid,Productid,Type,Bundlename,Bundledetail,Limitday,Mptag,MissionGroupId,Paytype,ItemNeed,Price,Tier,Item,Itemdaily,Offerday,Value,Icon,ExpirationReminderEmail,ExpirationReminderDaysBefore
+1100001,1100001,8001,com.lvmenggames.mp.001,1,28762,23135,179,[1],0,2,[],3000,tier72,"[{""Id"":98,""Count"":300},{""Id"":200037,""Count"":5}]","[{""Id"":97,""Count"":100},{""Id"":200037,""Count"":1}]",30,330,1100001,202606022,2

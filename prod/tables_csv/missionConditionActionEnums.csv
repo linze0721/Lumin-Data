@@ -1,0 +1,108 @@
+﻿id,Id,Desc,ParamDesc,ServerTrigger,EditorShowName
+1,1,条件：按下某个按键,,False,按下按键
+2,2,条件：播放avg对话直到完成,storyGroupId(int):对话Id,False,播放AVG并等待完成完成
+3,3,条件：播放timeline对话直到完成,timelineId(int):TimelineId,False,播放Timeline并等待完成
+4,4,条件：监听或检查任务完成,missionId(int):任务Id,False,任务完成
+5,5,条件：监听或检查小队所有角色死亡,,False,角色全部死亡
+6,6,条件：监听角色等级是否在范围内,minLevel(int):最小等级 maxLevel(int):最大等级 ,False,等级是否在范围内
+7,7,条件：是否到达某地图的某地点的半径范围内,worldId(int):地图Id positionX(float):坐标X positionY(float):坐标Y positionZ(float):坐标Z radius(float):半径,False,进入某范围
+8,8,条件：玩家下线,,False,玩家下线
+9,9,行为：播放Aside,asideId(int),False,播放Aside
+10,10,行为：创建怪物,monsterId(int)：怪物Id,False,创建怪物
+11,11,行为：传送玩家至地点,positionX(float)坐标X positionY(float)坐标Y positionZ(float)坐标Z,False,传送玩家至地点
+12,12,行为：设置复活点,positionX(float)坐标X positionY(float)坐标Y positionZ(float)坐标Z,False,更新本地和服务器复活点记录
+13,13,行为：修改交互物状态,interactableId(int):交互物Id state(int):交互物状态,False,修改交互物状态
+14,14,行为：消灭全部敌人,monsterId(int)：怪物Id count(int):数量,False,消灭全部敌人
+15,15,条件：击杀静态配置的怪物,monsterId(int)：怪物Id count(int):数量,False,(废弃)击杀静态配置的怪物
+16,16,条件：对比交互物状态,"{ ""interactObjectStates"": [ { ""swid"": 0, ""stateId"":0 } ] }",False,对比交互物状态
+17,17,条件：播放并完成蓝图,"{ ""key"":"""" }",False,播放并完成蓝图
+18,18,行为：传送玩家至地点，可以选择worldId,worldId(int):地图Id positionX(float)坐标X positionY(float)坐标Y positionZ(float)坐标Z,False,传送玩家至世界地点
+19,19,条件：当前持有物品,"{itemId:0, itemCount:10}",False,当前持有物品
+20,20,行为：打开短信界面,"{contactId:12701,messageGroupId:1001}",False,打开短信界面
+21,21,行为：发送短信,{messageGroupId:0},True,服务器：发送短信
+22,22,行为：调整UI状态(记录状态),"{uiModule:0,state:true}",True,服务器：调整UI状态
+23,23,行为：开启/关闭战斗按钮(记录状态),"{key:0,active:true}",True,服务器：开启或关闭战斗按钮
+24,24,行为：给队伍所有角色充能,,False,给队伍所有角色充能
+25,25,行为：打开软引导,{guideId:0},False,打开软引导
+26,26,行为：打开强引导,{guideId:0},False,打开强引导
+27,27,行为：自动上阵血瓶,{bloodBottleId:0},False,自动上阵血瓶
+28,28,行为：解锁系统,{systemId:0},True,服务器：解锁系统
+29,29,行为：添加物品,"{itemId:0, itemCount:10}",True,服务器：添加物品
+30,30,条件：向NPC提交指定物品,"{ ""items"": [ { ""itemId"": 0, ""itemCount"":0 } ] }",True,服务器：向NPC提交指定物品
+31,31,行为：播放Timeline,{timelineId:1},False,播放Timeline对话
+32,32,行为：挂载蓝图,"{key:""""}",False,挂载蓝图
+33,33,行为：卸载蓝图,"{key:""""}",False,卸载蓝图
+34,34,条件：离开指定区域(区域名),"{mapArea:enum,areaName:""""}",False,离开指定区域(区域名)
+35,35,条件：抵达指定区域(区域名),"{mapArea:enum,areaName:""""}",False,抵达指定区域(区域名)
+36,36,条件：现实时间经过N天,{days:1},False,服务器：现实时间经过X天
+37,37,条件：当前处于某界面,{uiType:0},False,当前处于某界面
+38,38,条件：当前处于某地图,{map:0},False,当前处于某地图
+39,39,行为：删除物品,"{itemId:0, itemCount:10}",True,服务器：删除某物品
+40,40,行为：系统解锁提示,{},False,系统解锁提示
+41,41,行为：标记任务坐标点,"{key:0,mapArea:enum,positionX:0f,positionY:0f,positionZ:0f}",False,标记任务坐标点
+42,42,行为：打开指定界面,{uiType:0},False,打开指定界面
+43,43,行为：移除任务坐标点,{key:0},False,移除任务坐标点
+44,44,条件：直到某AVG对话完成,{storyGroupId:0},False,直到某AVG对话完成
+45,45,条件：当接收到全局事件(蓝图),{eventId:0},False,当接收到全局事件(蓝图)
+46,46,条件：当接收到全局事件String(蓝图),"{eventId:""evtId""}",False,当接收到全局事件String(蓝图)
+47,47,条件：与NPC对话并播放AVG,"{npcId:0,storyGroupId:0}",False,与NPC对话并播放AVG
+48,48,条件：与NPC对话并播放Timeline,"{npcId:0,timelineId:0}",False,与NPC对话并播放Timeline
+49,49,条件：开启强引导并等待完成,{guideId:0},False,开启强引导并等待完成
+50,50,条件：系统解锁动画播放过,{systemId:0},False,系统解锁动画播放过
+51,51,行为：设置复活为不移动,{},False,复活设置：原地复活
+52,52,行为：移除复活设置,{},False,复活设置：移除
+53,53,行为：禁用传送按钮,{},False,禁用传送按钮
+54,54,行为：激活传送按钮,{},False,激活传送按钮
+55,55,行为：黑屏,{duration:0.5f},False,黑屏
+56,56,行为：复活设置：设置复活到复活点,{},False,复活设置：复活到复活点
+57,57,条件：当追逐战失败,{},False,当追逐战失败
+58,58,条件：当接收到客户端事件,{clientEvent:0},False,当接收到客户端事件
+59,59,条件：直到某Timeline完成,{timelineId:0},False,直到某Timeline完成
+60,60,条件：现实时间经过X秒,{ seconds: 1 },False,服务器：现实时间经过X秒
+61,61,条件：检查世界等级是否在范围内,"{ minLevel: 0, maxLevel: 10}",False,检查世界等级是否在范围内
+62,62,条件：检查神庙是否完成,"{ templeIds: [ 0, 1, 2, 3 ] }",False,检查神庙是否完成
+63,63,条件：KeyPoint检测,{ keyPoint: 0 },False,KeyPoint检测
+64,64,行为：发送KeyPoint,{ keyPoint: 0 },False,发送KeyPoint
+65,65,行为：大电梯修改状态,"{ swid: 0, floor: 0}",False,大电梯修改状态
+66,66,行为：播放BGM,"{ bgmName: """" }",False,播放BGM(临时)
+67,67,行为：设置BGM状态,{ bgmState: 0 },False,设置BGM状态(临时)
+68,68,行为：触发图文引导,{ tutorialId: 0 },False,打开图文引导
+69,69,行为：播放AVG,{ storyGroupId: 0 },False,播放AVG
+70,70,行为：播放Timeline,{timelineId:0},False,播放Timeline
+71,71,行为：章节开启结束提示,{tipType:0},False,章节开启结束提示
+72,72,条件：系统是否解锁,{systemId:0},False,系统是否解锁
+73,73,条件：当离开任务世界,{},False,当离开任务世界
+74,74,行为：进入主角模式,{},False,进入主角模式
+75,75,行为：退出主角模式,{},False,退出主角模式
+76,76,条件：检测战斗房怪物血量百分比,{},False,检测战斗房级怪物血量百分比
+77,77,条件：播放aside并检测完成,{asideId:0},False,播放Aside并检测完成
+78,78,条件：检测当前战斗房波次,{waves:0},False,检测当前战斗房波次
+79,79,条件：监测当前战斗房boss血量百分比,{hpPercent:0},False,检测当前战斗房boss血量百分比
+80,80,条件：检测某对话选项是否选择过,{optionId:0},False,检测某对话选项是否选择过
+81,81,条件：检测短信是否完成,{snsId:0},False,检测短信是否完成
+82,82,条件：可选任务条件,{missions:{0}},False,可选任务
+83,83,条件：打开副本界面,{raidId:0},False,打开副本界面
+84,84,条件：交互物提交物品,"{ ""items"": [ { ""itemId"": 0, ""itemCount"":0 } ] }",True,服务器：向交互物提交指定物品
+85,85,条件：Precondition任务组完成,{preconditionGroup:0},False,Precondition任务组完成
+86,86,条件：打开阅读物界面并等待完成,{},False,打开阅读物界面并等待完成
+87,87,行为：打开阅读物界面,{},False,打开阅读物界面
+88,88,行为：复活设置：复活到指定位置,"{chunkId:0, positionX:0,positionY:0,positionZ:0}",False,复活设置：复活到指定位置
+89,89,行为：突破任务HUD提示,{},False,突破任务HUD提示
+90,90,条件：检测是否阅读过指定阅读物,{textLibraryContentId：0},False,是否阅读过指定阅读物
+91,91,条件：打开小游戏并等待小游戏完成,{},False,打开小游戏并等待小游戏完成
+92,92,条件：当接收到任务信号,"{signal: """"}",False,当接收到任务信号
+93,93,行为：清理KeyPoints,"{keypoints: [0,1,2,3]}",False,清理KeyPoints
+94,94,条件：肉鸽完成次数条件,{level: 0},False,肉鸽完成次数条件
+95,95,条件：深渊完成次数条件,"{raidId: 0,count:0}",False,深渊完成次数条件
+96,96,条件：训练场完成次数条件,"{raidId: 0,count:0}",False,训练场完成次数条件
+97,97,条件：权限等级条件,"{raidId: 0,count:0}",False,权限等级条件
+98,98,条件：触发倒计时引导,{},False,触发倒计时引导
+99,99,行为：进入试用角色,{},False,进入试用角色
+100,100,行为：退出试用角色,{},False,退出试用角色
+101,101,行为：打开权限等级弹窗,{},False,打开权限等级弹窗
+102,102,条件：进入专注模式,{},False,进入专注模式
+103,103,条件：打开专注模式弹窗,{},False,打开专注模式弹窗
+104,104,条件：开始倒计时,{},False,开始倒计时
+105,105,条件：离开某范围,{},False,离开某范围
+107,107,条件：当进入或离开Chunk,{},False,当进入或离开Chunk
+108,108,条件：当退出主角模式,{},False,当退出主角模式
